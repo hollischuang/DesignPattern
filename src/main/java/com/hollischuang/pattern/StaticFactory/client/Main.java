@@ -1,4 +1,7 @@
-package com.hollischuang.pattern.staticfactory;
+package com.hollischuang.pattern.StaticFactory.client;
+
+import com.hollischuang.pattern.StaticFactory.Operation;
+import com.hollischuang.pattern.StaticFactory.OperationFactory;
 
 /**
  * Created by hollis on 16/4/11.
@@ -9,12 +12,12 @@ public class Main {
 //        OperationAdd operationAdd = new OperationAdd();
 //        operationAdd.setValue1(10);
 //        operationAdd.setValue2(5);
-//        System.out.println(operationAdd.getResule());
+//        System.out.println(operationAdd.getResult());
 
 
         Operation operationAdd = OperationFactory.createOperation("+");
         operationAdd.setValue1(10);
         operationAdd.setValue2(5);
-        System.out.println(operationAdd.getResule());
+        System.out.println(operationAdd.getResult());
     }
 }

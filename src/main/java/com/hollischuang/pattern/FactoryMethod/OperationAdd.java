@@ -1,4 +1,4 @@
-package com.hollischuang.pattern.StaticFactory;
+package com.hollischuang.pattern.FactoryMethod;
 
 /**
  * Created by hollis on 16/4/11.

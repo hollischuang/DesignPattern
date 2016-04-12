@@ -1,4 +1,4 @@
-package com.hollischuang.pattern.singlenton.lazy;
+package com.hollischuang.pattern.Singlenton.lazy;
 
 /**
  * Created by hollis on 16/4/6.

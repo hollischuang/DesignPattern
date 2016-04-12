@@ -1,4 +1,4 @@
-package com.hollischuang.pettern.singlenton.double_check;
+package com.hollischuang.pattern.singlenton.double_check;
 
 /**
  * Created by hollis on 16/4/6.

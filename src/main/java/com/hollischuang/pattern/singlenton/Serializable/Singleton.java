@@ -1,4 +1,4 @@
-package com.hollischuang.pettern.singlenton.Serializable;
+package com.hollischuang.pattern.singlenton.Serializable;
 
 /**
  * Created by hollis on 16/4/6.

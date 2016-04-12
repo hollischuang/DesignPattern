@@ -1,4 +1,4 @@
-package com.hollischuang.pettern.singlenton.Enum;
+package com.hollischuang.pattern.singlenton.Enum;
 
 /**
  * Created by hollis on 16/4/6.

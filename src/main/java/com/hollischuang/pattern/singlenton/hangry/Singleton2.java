@@ -1,4 +1,4 @@
-package com.hollischuang.pettern.singlenton.hangry;
+package com.hollischuang.pattern.singlenton.hangry;
 
 /**
  * Created by hollis on 16/4/6.

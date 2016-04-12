@@ -1,6 +1,6 @@
-package com.hollischuang.pettern.singlenton.client;
+package com.hollischuang.pattern.singlenton.client;
 
-import com.hollischuang.pettern.singlenton.hangry.Singleton;
+import com.hollischuang.pattern.singlenton.hangry.Singleton;
 
 /**
  * Created by hollis on 16/4/6.

@@ -26,8 +26,6 @@ public class OperationFactory {
                 break;
             default:
                 throw new UnsupportedOperationException("不支持该操作");
-                break;
-
         }
         return oper;
     }

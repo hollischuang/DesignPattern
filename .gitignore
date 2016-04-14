@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+.idea
+.DS_Store
+*.iml
+# maven
+target/
+*.versionsBackup
+bin/
+.sftp-config.json

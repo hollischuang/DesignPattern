@@ -5,7 +5,7 @@
 .DS_Store
 *.iml
 # maven
-target/
+target/*
 *.versionsBackup
 bin/
 .sftp-config.json

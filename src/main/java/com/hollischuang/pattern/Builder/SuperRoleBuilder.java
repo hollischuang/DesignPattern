@@ -9,12 +9,17 @@ public class SuperRoleBuilder extends Builder {
 
     @Override
     public void buildHead() {
-        role.setBody("common head");
+        role.setBody("suoer head");
+    }
+
+    @Override
+    public void buildFace() {
+        role.setFace("super face");
     }
 
     @Override
     public void buildBody() {
-        role.setBody("common body");
+        role.setBody("super body");
     }
 
     @Override
@@ -33,7 +38,7 @@ public class SuperRoleBuilder extends Builder {
     }
 
     @Override
-    public Role getResule() {
-        return getResule();
+    public Role getResult() {
+        return role;
     }
 }

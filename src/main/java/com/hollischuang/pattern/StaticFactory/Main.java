@@ -1,4 +1,4 @@
-package com.hollischuang.pattern.StaticFactory.client;
+package com.hollischuang.pattern.StaticFactory;
 
 import com.hollischuang.pattern.StaticFactory.Operation;
 import com.hollischuang.pattern.StaticFactory.OperationFactory;
